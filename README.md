@@ -4,7 +4,7 @@
 
 ![Login Screen](./screenshots/login.png) 
 
-Todo Interface]
+*[Todo Interface]**
 
 ![Todo List](./screenshots/todos.png)
 
