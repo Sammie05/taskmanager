@@ -1,3 +1,37 @@
+# Todo Application - React & TypeScript
+
+*Login Interface** 
+![Login Screen](./screenshots/login.png) 
+
+![App Preview](./screenshots/todos.png)
+
+
+A feature-rich task management application inspired by Microsoft Outlook's interface.
+
+## 🔑 Features
+- ✅ User Authentication (Login/Logout)
+- 📝 Todo CRUD Operations
+- 🗂️ Filtering (All/Active/Completed)
+- ⏰ Due Date Notifications
+- 🚀 Priority Levels (High/Medium/Low)
+- 💾 Local Storage Persistence
+
+⚙️ Setup
+```bash
+git clone https://github.com/YOUR-USERNAME/taskmanager.git
+cd taskmanager
+npm install
+npm start
+🔐 Test Credentials
+text
+Username: admin
+Password: password
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +78,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+Final Push**
+
+git add .
+git commit -m "Initial commit - Todo App"
+git branch -M main
+git push -u origin main
