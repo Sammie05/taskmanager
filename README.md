@@ -3,7 +3,7 @@
 *Login Interface** 
 ![Login Screen](./screenshots/login.png) 
 
-![App Preview](./screenshots/todos.png)
+![Todo Interface](./screenshots/todos.png)
 
 
 A feature-rich task management application inspired by Microsoft Outlook's interface.
@@ -18,7 +18,7 @@ A feature-rich task management application inspired by Microsoft Outlook's inter
 
 ⚙️ Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/taskmanager.git
+git clone https://github.com/Sammie05/taskmanager.git
 cd taskmanager
 npm install
 npm start
@@ -26,7 +26,6 @@ npm start
 text
 Username: admin
 Password: password
-
 
 
 
