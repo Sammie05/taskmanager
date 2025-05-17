@@ -17,7 +17,6 @@ A feature-rich task management application inspired by Microsoft Outlook's inter
 - 💾 Local Storage Persistence
 
 ⚙️ Setup
-```bash
 git clone https://github.com/Sammie05/taskmanager.git
 cd taskmanager
 npm install
