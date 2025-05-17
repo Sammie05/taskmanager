@@ -1,9 +1,12 @@
 # Todo Application - React & TypeScript
 
 *Login Interface** 
+
 ![Login Screen](./screenshots/login.png) 
 
-![Todo Interface](./screenshots/todos.png)
+Todo Interface]
+
+![Todo List](./screenshots/todos.png)
 
 
 A feature-rich task management application inspired by Microsoft Outlook's interface.
